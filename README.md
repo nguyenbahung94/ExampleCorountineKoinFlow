@@ -1,2 +1,2 @@
 Make an example <br />
-Using koin,corountines,flow with clean architecture
+Using MVVM,koin,corountines flow with clean architecture
