@@ -1,2 +1,2 @@
-Make example <br />
--koin,corountines,flow with clean architecture
+Make an example <br />
+Using koin,corountines,flow with clean architecture
